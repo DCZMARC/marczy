@@ -1,4 +1,5 @@
 ({
+  version: "3.0"
   // --- PINTU UTAMA UNTUK TOMBOL ---
 
   marczy: async function(target, sock) {
