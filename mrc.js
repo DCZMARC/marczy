@@ -1,5 +1,5 @@
 ({
-  version: "3.0"
+  
 
   ({
   // --- INI ADALAH LOGIKA UTAMA (MESIN BUGNYA) ---
